@@ -1,4 +1,4 @@
-HTML & CSS Spotify Clone
+#HTML & CSS Spotify Clone 
 This project is a simple Spotify clone built entirely using HTML and CSS. It aims to replicate the basic functionality and design of the popular music streaming platform, allowing users to browse, search, and play music.
 
 Features:
