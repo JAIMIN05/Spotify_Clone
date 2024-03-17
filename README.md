@@ -10,4 +10,4 @@ Mimics the Spotify navigation bar, allowing users to navigate between different 
 Displays featured playlists and albums, resembling the homepage of Spotify.
 
 ## Screenshots:
-[Include screenshots or demo GIFs here to showcase the project in action.]
+![Spotify_clone](https://github.com/JAIMIN05/Spotify_Clone/assets/115476522/af772d27-ada0-4d36-814d-6f4a57e72ee2)
